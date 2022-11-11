@@ -1,0 +1,38 @@
+* {
+    margin: 10px;
+}
+
+button {
+    font-size: 25px;
+    color: white;
+    /* background-color: black; */
+}
+
+#complimentButton {
+    display: flex;
+    background-color: yellow;
+    color: gray;
+}
+
+#fortuneButton {
+    display: flex;
+    background-color: orange;
+}
+
+#motivationButton {
+    display: flex;
+    background-color: peachpuff;
+    color: gray;
+}
+
+#loveButton {
+    display: flex;
+    background-color: red;
+}
+
+#encourageButton {
+    display: flex;
+    background-color: aquamarine;
+    color: gray
+}
+
